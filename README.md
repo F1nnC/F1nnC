@@ -1,5 +1,7 @@
 <h1 align='center'> Hey 👋, I'm Finn 🦈 </h1>
 <p align='center'> Highschool Senior, Based in San Diego </p>
+<p align='center'> Mostly into Full stack web applications </p>
+<p align='center'> Trying to get into Artificial Intelligence Application</p>
 
 <p align='center'>
   <a href="https://www.instagram.com/finn__carpenter/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
