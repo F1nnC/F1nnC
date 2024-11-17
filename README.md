@@ -31,7 +31,7 @@ __________                _____.__.__                    \  '-.__   )_`'._
 
 ## About me
 - Highschool Senior 📕
-- San Diego Native 🩴
+- San Diego Native 🏖️
 - Full Stack Devolper 👨‍💻
 - AI Enjoyer 💻
 - Surfing Enthusiast 🏄‍♂️
