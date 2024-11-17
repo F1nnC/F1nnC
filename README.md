@@ -3,7 +3,7 @@
 <p align='center'> Mostly into Full stack web applications </p>
 <p align='center'> Trying to get into Artificial Intelligence Application</p>
 
-<h1 align='center'> Check this out! </h1>
+<h1 align='center'> What I'm currently working on </h1>
 <p align='center'> <a href="https://github.com/F1nnC/Shelly-AI">ShellyAI</a> </p>
 
 <br>
