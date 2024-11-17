@@ -1,19 +1,36 @@
-<h1 align='center'> Hey 👋, I'm Finn 🦈 </h1>
-<p align='center'> Highschool Senior, Based in San Diego </p>
-<p align='center'> Mostly into Full stack web applications </p>
-<p align='center'> Trying to get into Artificial Intelligence Application</p>
-
-<h2 align='left'> My Workload</h2>
-<p align='left'> <a href="https://github.com/F1nnC/Shelly-AI">ShellyAI</a> </p>
+```
+_______________              _________                       ,
+\_   _____/_   | ____   ____ \_   ___ \                    .';
+ |    __)  |   |/    \ /    \/    \  \/                 .-'` .'
+ |     \   |   |   |  \   |  \     \____             ,`.-'-.`\
+ \___  /   |___|___|  /___|  /\______  /             ; /     '-'
+     \/             \/     \/        \/              | \       ,-,
+__________                _____.__.__                 \  '-.__   )_`'._
+\______   \_______  _____/ ____\__|  |   ____          '.     ```      ``'--._
+ |     ___/\_  __ \/  _ \   __\|  |  | _/ __ \        .-' ,                   `'-.
+ |    |     |  | \(  <_> )  |  |  |  |_\  ___/         '-'`-._           ((   o   )
+ |____|     |__|   \____/|__|  |__|____/\_____>                `'--....(`- ,__..--'
+                                                                       '-'`
+```
+- Highschool Senior, Based in San Diego 
+- Mostly into Full stack web applications 
+- Trying to get into Artificial Intelligence Application
 
 <br>
 
-<p align='center'>
-      <img src="https://github-readme-stats.vercel.app/api?username=F1nnC&show_icons=true&theme=transparent&title_color=#539BF5&text_color=#768390" alt="Anurag's GitHub stats">
-</p>
+## My Workload
+[![SkillIcons](https://skillicons.dev/icons?i=py,java,js,html,css,tailwind,sass,docker,linux,ubuntu)](https://skillicons.dev)<br/>
 
-<p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F1nnC&hide_progress=true&theme=transparent" alt="Top Languages">
-</p>
+
+
+## Stats
+
+<div class="badges-githubstats">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=F1nnC&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="F1nnC's GitHub Stats" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F1nnC&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="F1nnC's GitHub Stats" height="200" />    
+  </p>
+</div>
 
 <br>
+
