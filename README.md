@@ -4,7 +4,7 @@
 <p align='center'> Trying to get into Artificial Intelligence Application</p>
 
 <h1 align='center'> Check this out! </h1>
-<p align='center'> ShellyAI </p>
+<p align='center'> <a href="https://github.com/F1nnC/Shelly-AI">ShellyAI</a> </p>
 
 <br>
 
