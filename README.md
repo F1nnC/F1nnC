@@ -3,8 +3,8 @@
 <p align='center'> Mostly into Full stack web applications </p>
 <p align='center'> Trying to get into Artificial Intelligence Application</p>
 
-<h2 align='right'> My Workload</h2>
-<p align='right'> <a href="https://github.com/F1nnC/Shelly-AI">ShellyAI</a> </p>
+<h2 align='left'> My Workload</h2>
+<p align='left'> <a href="https://github.com/F1nnC/Shelly-AI">ShellyAI</a> </p>
 
 <br>
 
