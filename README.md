@@ -12,12 +12,6 @@ __________                _____.__.__                    \  '-.__   )_`'._
  |____|     |__|   \____/|__|  |__|____/\_____>               jgs `'--....(`- ,__..--'
                                                                           '-'`
 ```
-- Highschool Senior, Based in San Diego 
-- Mostly into Full stack web applications 
-- Trying to get into Artificial Intelligence Application
-
-<br>
-
 ## My Workload
 [![SkillIcons](https://skillicons.dev/icons?i=py,java,js,html,css,tailwind,sass,docker,linux,ubuntu)](https://skillicons.dev)<br/>
 
