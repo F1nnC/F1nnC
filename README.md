@@ -17,6 +17,7 @@ __________                _____.__.__                    \  '-.__   )_`'._
 
 
 
+
 ## Stats
 
 <div class="badges-githubstats">
@@ -28,3 +29,9 @@ __________                _____.__.__                    \  '-.__   )_`'._
 
 <br>
 
+## About me
+- Highschool Senior 📕
+- San Diego Native 🩴
+- Full Stack Devolper 👨‍💻
+- AI Enjoyer 💻
+- Surfing Enthusiast 🏄‍♂️
