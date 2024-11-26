@@ -12,7 +12,7 @@ __________                _____.__.__                    \  '-.__   )_`'._
  |____|     |__|   \____/|__|  |__|____/\_____>               jgs `'--....(`- ,__..--'
                                                                           '-'`
 ```
-## My Workload
+## Programming Knowledge in
 [![SkillIcons](https://skillicons.dev/icons?i=py,java,js,html,css,tailwind,sass,docker,linux,ubuntu)](https://skillicons.dev)<br/>
 
 
