@@ -16,18 +16,14 @@ __________                _____.__.__                    \  '-.__   )_`'._
 [![SkillIcons](https://skillicons.dev/icons?i=py,java,js,html,css,tailwind,sass,docker,linux,ubuntu)](https://skillicons.dev)<br/>
 
 
-
-
 ## Stats
 
 <div class="badges-githubstats">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=F1nnC&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="F1nnC's GitHub Stats" height="200" width="400" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F1nnC&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="F1nnC's GitHub Stats" height="200" width="400"/>    
+    <img src="https://github-readme-stats.vercel.app/api?username=F1nnC&show_icons=true&theme=transparent&title_color=#539BF5&text_color=#768390" alt="F1nnC's GitHub Stats" height="200"  /><br><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F1nnC&theme=transparent&layout=compact" alt="F1nnC's GitHub Stats" height="200" /><br><br>
+    <img src="https://streak-stats.demolab.com?user=F1nnC&theme=transparent" alt="F1nnC's GitHub Stats" height="200" />
   </p>
- <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=F1nnC&theme=transparent" alt="GitHub Streak" /></a>
- </p>
 </div>
 
 <br>
