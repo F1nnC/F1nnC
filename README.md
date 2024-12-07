@@ -25,12 +25,3 @@ __________                _____.__.__                    \  '-.__   )_`'._
     <img src="https://streak-stats.demolab.com?user=F1nnC&theme=transparent" alt="F1nnC's GitHub Stats" height="200" />
   </p>
 </div>
-
-<br>
-
-## About me
-- Highschool Senior 📕
-- San Diego Native 🏖️
-- Full Stack Devolper 👨‍💻
-- AI Enjoyer 💻
-- Surfing Enthusiast 🏄‍♂️
